@@ -58,5 +58,5 @@ The workflow for the issuance of the GIG token would be as follows:
 14. The BTF platform will manage distributions and off-ramping.
 
 ##### Disclaimer(s)
-[ADM Disclaimer(s)](admdisclaimer.md)
+[ADM Disclaimer(s)](admdisclaimer.md)  
 [BTF Disclaimer(s)](btfdisclaimer.md)
