@@ -11,3 +11,5 @@ Block Time Financial, Inc. has both in-house counsel and utilizes Godfrey Kahn's
 Please take a look at this page as work is updated.
 
 ##### Disclaimer(s)
+[ADM Disclaimer(s)](admdisclaimer.md)
+[BTF Disclaimer(s)](btfdisclaimer.md)
