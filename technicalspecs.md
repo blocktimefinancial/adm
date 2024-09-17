@@ -31,10 +31,22 @@ The initial design process would include the legal team employed by ADM, Dorsey 
 
 The workflow for the issuance of the GIG token would be as follows:
 #### Tranche One  
+##### Description
+ADM and BTF will finish the legal consultation on the GIG security's type, size, and regulatory requirements.  We will then decide on the token type, native or Soroban Token Contract.  Based on legal advice, decide on either oracles for KYC and AML or wrapped native tokens. If a native token is chosen, create issuing and distribution accounts with the correct authorization flags set.  Define the needed KYC, AML, and ACRD tokens, Stellar native or Soroban wrapper.  Issue the assets using the BTF Digital Core Platform.
+##### Steps
 1. Legal consultation on the GIG security's type, size, and regulatory requirements.  
 2. Decide on the token type, native or Soroban Token Contract.  
 3. Decide on the Oracles needed for KYC and AML or wrapped native tokens.  
-4. Work with ecosystem partners to deploy TESTNET oracles.  
+4. Work with ecosystem partners to deploy TESTNET oracles.
+##### Measure of Completion
+Code and descriptions on the GitHub repo.  MVP contracts and assets issued on TESTNET.
+##### Estimate date of completion
+10/31/2024
+##### Budget
+Legal Fees - 
+ADM Administration - 
+BTF Administration -
+
 #### Tranche Two
 1. BTF will write smart contract(s) to encode the legal representation of the GIG token.  
 2. BTF will deploy and test the GIG token on the Stellar TESTNET.  
