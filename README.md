@@ -11,5 +11,5 @@
 [Legal Specs](legalspecs.md)
 
 ##### Disclaimer(s)
-[ADM Disclaimers](admdisclaimer.md)
+[ADM Disclaimers](admdisclaimer.md)  
 [BTF Disclaimers](btfdisclaimer.md)
