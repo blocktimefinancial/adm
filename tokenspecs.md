@@ -12,4 +12,5 @@ Arctic Digital Mining, LLC will issue the GiG token.
 The GiG token is a US SEC-regulated Reg D and Reg S digital security, and as such, it will follow the rules and regulations for a US security.
 
 ##### Disclaimer(s)
-
+[ADM Disclaimer(s)](admdisclaimer.md)
+[BTF Disclaimer(s)](btfdisclaimer.md)
