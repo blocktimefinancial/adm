@@ -1,3 +1,4 @@
+[README Home](README.md)
 ## GiG Token Specifications
 
 ### What is the GiG token?
