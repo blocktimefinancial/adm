@@ -2,9 +2,11 @@
 ## GiG Token Specifications
 
 ### What is the GiG token?
+See this link on the ADM website  
+[What is the GiG token](https://arcticdigitalmining.com/the-gig-token/)
 
 ### Why is the GiG token important?
-See this link on the ADM website
+See this link on the ADM website  
 [Why the GiG token](https://arcticdigitalmining.com/why-we-do-it/)
 
 ### Who issues the GiG token?
@@ -14,5 +16,5 @@ Arctic Digital Mining, LLC will issue the GiG token.
 The GiG token is a US SEC-regulated Reg D and Reg S digital security, and as such, it will follow the rules and regulations for a US security.
 
 ##### Disclaimer(s)
-[ADM Disclaimer(s)](admdisclaimer.md)
+[ADM Disclaimer(s)](admdisclaimer.md)  
 [BTF Disclaimer(s)](btfdisclaimer.md)
