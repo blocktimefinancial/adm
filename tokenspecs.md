@@ -4,6 +4,8 @@
 ### What is the GiG token?
 
 ### Why is the GiG token important?
+See this link on the ADM website
+[Why the GiG token](https://arcticdigitalmining.com/why-we-do-it/)
 
 ### Who issues the GiG token?
 Arctic Digital Mining, LLC will issue the GiG token.
