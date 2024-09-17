@@ -5,7 +5,7 @@
 [Token Specs](tokenspecs.md)
 
 ### Technical Description of the GIG token on the Stellar blockchain
-[Technical README](technicalspecs.md)
+[Technical Specs](technicalspecs.md)
 
 ### Legal Specifications
 [Legal Specs](legalspecs.md)
