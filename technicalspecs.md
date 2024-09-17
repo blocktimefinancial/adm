@@ -25,3 +25,5 @@ Sections D and S of the SEC regulate the transfer of the securities.  Depending 
 Trading of the GiG token may take place in a number of different ways based on the token type issued.  Trading may be facilitated on the Stellar DEX, Swapping Smart Contracts, and other dedicated platforms and contracts, depending on the transfer restrictions on the GiG token.
 
 ##### Disclaimer(s)
+[ADM Disclaimer(s)](admdisclaimer.md)
+[BTF Disclaimer(s)](btfdisclaimer.md)
