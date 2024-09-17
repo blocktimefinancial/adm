@@ -10,4 +10,8 @@ The securities described in this presentation are not registered with the Securi
 
 This presentation is intended for informational purposes only and does not constitute investment advice. Potential investors should carefully consider the risks and uncertainties associated with any investment before making a decision.
 
-Investors should consult with their own legal, tax, and financial advisors before making an investment decision.
+Investors should consult their own legal, tax, and financial advisors before making an investment decision.
+
+Block Time Financial, Inc. and BTF Transfer Services are not broker-dealers registered with the Securities and Exchange Commission (SEC) or any state securities regulator. We do not provide investment advice or engage in the sale of securities. Any information provided by Block Time Financial, Inc. or BTF Transfer Services is for informational purposes only and should not be construed as investment advice or a recommendation to buy or sell any securities.   
+
+If you are seeking investment advice or wish to purchase securities, please consult with a qualified financial advisor.
