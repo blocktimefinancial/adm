@@ -2,6 +2,13 @@
 Arctic Digital Mining
 
 ### Technical Description of the GIG token on the Stellar blockchain
+[Technical README](technicalspecs.md)
+
+### Token Specifications
+[Token Specs](tokenspecs.md)
+
+### Legal Specifications
+[Legal Specs](legalspecs.md)
 
 The GIG token on the Stellar blockchain has two options at this point.  The first option is a “classic” Stellar native token that is “wrapped” with the Stellar Asset Contract, which would create a Soroban Smart Contract from the natively issued token.  The second option would be to utilize the Stellar Token Contract interface and issue a Soroban Smart Contract token with other digital security requirements such as KYC, transfer restrictions, etc.  The token may require additional smart contracts to implement KYC, AML, and other compliance checks.  All the needed smart contracts would be written, deployed, and managed with the Block Time Financial “Digital Core Platform.” 
 
