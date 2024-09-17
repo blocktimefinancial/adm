@@ -43,9 +43,10 @@ Code and descriptions on the GitHub repo.  MVP contracts and assets issued on TE
 #### Estimate date of completion
 10/31/2024
 #### Budget
-Legal Fees -  
-ADM Administration -  
-BTF Administration -  
+Legal Fees -  $10,000 
+ADM Administration -  $15,000
+BTF Administration -  $15,000   $15,000 (4 Admin@$100/hr/16.5=$6,600, 1 PM@$70/hr/120hrs=$8,400 ) 
+Total Tranche 1 - $40,000 USD
 
 ### Tranche Two
 #### Description
@@ -61,12 +62,13 @@ Code and descriptions on the GitHub repo. Completed contracts and assets issued 
 #### Estimate date of completion
 11/30/2024
 #### Budget
-Legal Fees -  
-ADM Administration -   
-BTF Administration -   
-Audit -   
-Banking Partner -   
-KYC/AML/ACRD Partner -   
+Legal Fees -  $10,000
+ADM Administration -  $15,000
+BTF Administration -   $15,000 (4 Admin@$100/hr/15=$6,000, 1 PM@$70/hr/110hrs=$5,600, 2 Devs@$65/hr/10hrs=$1,300) 
+Audit - $10,000 (Possible Stellar Credits)
+Banking Partner -  $2,500 onboarding fee
+KYC/AML/ACRD Partner - $3,000 onboarding fee
+Total Tranche 2 - $55,500
 
 ### Tranche Three
 #### Description
@@ -92,12 +94,14 @@ Code and descriptions on the GitHub repo. Completed contracts and assets issued 
 #### Estimate date of completion  
 12/31/2024
 #### Budget  
-Legal Fees -   
-ADM Administration -   
-BTF Administration -   
-Audit -   
-Banking Partner -   
-KYC/AML/ACRD Partner -   
+Legal Fees -   $15,000
+ADM Administration -   $15,000 
+BTF Administration -   $15,000 (4 Admin@$100/hr/17=$6,800, 1 PM@$70/hr/80hrs=$5,600, 2 Devs@$65/hr/20hrs=$2,600) 
+Banking Partner -   $1,000 (Ongoing Fees)
+KYC/AML/ACRD Partner - $8,500 (Usage Fees) (KYC Fees for Investors, KYB Fees for Businesses, Accredited Audit Fees per Investor)
+Total Tranche 3 - $59,500
+
+## Total Budget - $150,000
 
 ##### Disclaimer(s)
 [ADM Disclaimer(s)](admdisclaimer.md)  
