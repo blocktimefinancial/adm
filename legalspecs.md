@@ -8,8 +8,8 @@ The Arctic Digital Mining (ADM) team is currently defining the legal specificati
 Block Time Financial, Inc. has both in-house counsel and utilizes Godfrey Kahn's services in their Milwaukee office.
 [Godfrey Kahn](https://gklaw.com)
 
-Please take a look at this page as work is updated.
+Please take a look at this page as the work is updated.
 
 ##### Disclaimer(s)
-[ADM Disclaimer(s)](admdisclaimer.md)
+[ADM Disclaimer(s)](admdisclaimer.md)  
 [BTF Disclaimer(s)](btfdisclaimer.md)
