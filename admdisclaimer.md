@@ -12,6 +12,6 @@ This presentation is intended for informational purposes only and does not const
 
 Investors should consult their own legal, tax, and financial advisors before making an investment decision.
 
-Arctic Digital Mining and its affiliates are not broker-dealers registered with the Securities and Exchange Commission (SEC) or any state securities regulator. We do not provide investment advice or engage in the sale of securities. Any information provided by Block Time Financial, Inc. or BTF Transfer Services is for informational purposes only and should not be construed as investment advice or a recommendation to buy or sell any securities.   
+Arctic Digital Mining and its affiliates are not broker-dealers registered with the Securities and Exchange Commission (SEC) or any state securities regulator. We do not provide investment advice or engage in the sale of securities. Any information provided by Arctic Digital Mining or its affiliates is for informational purposes only and should not be construed as investment advice or a recommendation to buy or sell any securities.   
 
 If you are seeking investment advice or wish to purchase securities, please consult with a qualified financial advisor.
