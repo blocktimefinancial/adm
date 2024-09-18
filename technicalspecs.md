@@ -4,6 +4,10 @@
 ### The Stellar Blockchain
 The GiG token will be issued on the Stellar blockchain.  [stellar.org](https://stellar.org) The Stellar blockchain was chosen for its regulatory status as a utility blockchain that is purpose-built for financial transactions. Industry giants such as Franklin Templeton, BlackRock, MoneyGram, and more use it.  
 
+### Block Time Financial
+Block TIme Financial provides a Digital Core with additional modules for ADM to issue and maintain tokens, onboard and maintain investors, provide a marketplace for trading the tokens, and provide the regulatory and compliance data needed for examinations.   
+[Block TIme Financial](https://blocktimefinancial.com)
+
 ### Native vs. Soroban Smart Contract
 The Stellar blockchain currently has two options for issuing tokens.  Option one is a native asset issued on the blockchain with limited "smart" capabilities.  Option two is a Soroban Smart Contract following the Soroban Token Specification.  This option allows a token to be issued like an Ethereum ERC-20 token.  The Soroban contract can also add compliance mechanisms such as transfer restrictions, KYC and AML enforcement, and suitability restrictions.
 
