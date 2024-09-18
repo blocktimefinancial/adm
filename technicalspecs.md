@@ -6,7 +6,9 @@ The GiG token will be issued on the Stellar blockchain.  [stellar.org](https://s
 
 ### Block Time Financial
 Block TIme Financial provides a Digital Core with additional modules for ADM to issue and maintain tokens, onboard and maintain investors, provide a marketplace for trading the tokens, and provide the regulatory and compliance data needed for examinations.   
-[Block TIme Financial](https://blocktimefinancial.com)
+[Block TIme Financial](https://blocktimefinancial.com)  
+BTF Ecosystem Partners
+[Stellar.Expert](https://stellar.expert)  [Obsrvr](https://www.withobsrvr.com/)  [FinClusive](https://finclusive.com)  [Circle](https://partners.circle.com/block-time-financial)
 
 ### Native vs. Soroban Smart Contract
 The Stellar blockchain currently has two options for issuing tokens.  Option one is a native asset issued on the blockchain with limited "smart" capabilities.  Option two is a Soroban Smart Contract following the Soroban Token Specification.  This option allows a token to be issued like an Ethereum ERC-20 token.  The Soroban contract can also add compliance mechanisms such as transfer restrictions, KYC and AML enforcement, and suitability restrictions.
