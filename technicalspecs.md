@@ -91,7 +91,7 @@ Completely audited assets and contracts are deployed on the MAINNET. Validating 
 9. Initial trading will occur between onboarded investors who have passed KYC/KYB/AML checks.  A settlement token will be chosen.  
 10. Investors may purchase settlement tokens via the BTF investor portal application.  
 11. Investors may also purchase tokens via traditional fiat rails on the BTF platform.  
-12. The BTF platform will utilize the SEP 1, 6, 10, 24, 38, 40,  41, 42, and 43 protocols to support the investor portal and the GIG token.  
+12. The BTF platform will utilize the SEP 1, 6, 8, 10, 24, 38, 40,  41, 42, and 43 protocols to support the investor portal and the GIG token.  
 13. The GIG token contract will consult Reflector Oracles to query KYC, AML, and ACRD statutes for investors.  
 14. The BTF platform will manage distributions and off-ramping.
 #### Measure of Completion  
